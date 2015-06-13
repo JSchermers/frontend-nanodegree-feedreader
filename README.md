@@ -41,3 +41,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 ## Added two simple tests
 1. to run open index.html in a browser
 2. all tests specified in jasmine/spec/feedreader.js will run
+
+## After Comments from Udacity
+1. fixed critical bug i hope. I have read the comments and implemented this in code. 
+2. fixed nitpicking
